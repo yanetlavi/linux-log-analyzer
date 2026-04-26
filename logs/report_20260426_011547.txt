@@ -1,0 +1,8 @@
+Log Analysis Report
+Generated on: Sun Apr 26 01:15:47 IDT 2026
+Log File: ./logs/app.log
+Date Filter: None
+--------------------------------
+INFO lines:  2
+WARN lines:  2
+ERROR lines: 2

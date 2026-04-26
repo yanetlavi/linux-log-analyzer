@@ -1,0 +1,6 @@
+2025-01-01 10:00:00 INFO  Server started
+2025-01-01 10:05:12 WARN  High memory usage
+2025-01-01 10:10:33 ERROR Database connection failed
+2025-01-01 10:15:45 INFO  Request handled
+2025-01-01 10:20:01 ERROR Timeout while calling external API
+2025-01-01 10:25:30 WARN  Slow response detected
